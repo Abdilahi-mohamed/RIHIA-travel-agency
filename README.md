@@ -1,6 +1,6 @@
-# SAFA Travel Agency
+# RIHLA Travel Agency
 
-SAFA Travel Agency is a shared travel registration workspace for the Hargeisa and Jidda teams. Both dashboards use the same Express API and MongoDB collections.
+RIHLA Travel Agency is a shared travel registration workspace for the Hargeisa and Jidda teams. Both dashboards use the same Express API and MongoDB collections.
 
 ## Setup
 
